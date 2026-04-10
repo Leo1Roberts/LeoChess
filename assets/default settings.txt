@@ -1,0 +1,40 @@
+Auto flip board: yes
+Highlight previous move: yes
+Show legal moves: yes
+Animate moves: yes
+Coordinates outside board: yes
+Show tooltips: yes
+Hide board tooltips: yes
+Allow taking back moves: yes
+Allow move suggestions: yes
+
+Pieces folder: modern
+
+Dark square colour: #b58863
+Light square colour: #f0d9b5
+Dark square highlight colour: #aaa23a
+Light square highlight colour: #cdd26a
+Dark square selection colour: #4682b4
+Light square selection colour: #84accd
+Dark square capture colour: #ff4500
+Light square capture colour: #ff8300
+Dark square check colour: #dc143c
+Light square check colour: #dc143c
+
+Void filler colour: #808080
+Backing card colour: #d3d3d3
+Panel colour 1: #a9a9a9
+Panel colour 2: #bebebe
+Text colour: #000000
+Button colour: #808080
+Button hover colour: #666666
+Button text colour: #ffffff
+Inactive button text colour: #bbbbbb
+Warning text colour: #ffa0a0
+Move list highlight colour: #929292
+Move list hover colour: #808080
+Play button colour: #00b000
+Play button hover colour: #00e000
+Play button text colour: #000000
+Border colour: #000000
+Board margin text colour: #666666
